@@ -1,4 +1,5 @@
 # Understanding Data Labeling: Tools, Process, and Its Importance in Machine Learning
+![Data Labeling](https://storage.googleapis.com/labellerr-cdn/image_labeling/top-10-image-labeling-tool/best_data_labeling_tools.webp)
 
 Data labeling is one of the most crucial steps in the machine learning (ML) workflow, helping systems understand and learn from raw data. 
 
@@ -9,6 +10,7 @@ In this article, we'll explore what data labeling is, why it’s important, the 
 For a deeper dive into data labeling and its various types, check out [this blog](https://www.labellerr.com/blog/what-is-data-labeling-its-uses-features-process-and-types/).
 
 ## What is Data Labeling?
+![Data Labeling Example](https://mindy-support.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2022/09/benefits-of-data-labeling.png.webp)
 
 Data labeling refers to the process of annotating or tagging raw data (images, text, audio, or video) with appropriate labels. 
 
@@ -29,6 +31,7 @@ Without sufficient labeled data, training models can become a guessing game, res
 This is where effective data labeling tools come into play, helping organizations scale the process efficiently and reduce manual effort.
 
 ## The Data Labeling Process
+![Process of Data Labeling](https://mindy-support.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2022/09/how-does-data-labeling-work_.jpg.webp)
 
 1. **Data Collection**: The first step involves collecting the raw data, whether from images, videos, audio, or text. This data serves as the input to be labeled.
    
